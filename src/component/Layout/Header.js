@@ -29,7 +29,7 @@ export default function Header() {
                 </div>
 
                 <div className={`login `}>
-                   <img src="../assest/image/Login2.png" alt='login2' /> 
+                <img src="../assest/image/Login2.png" alt='login2' /> 
                     <a href='#'> <img src={`${imgRoute}/login1.png`} alt='login1' /> </a>
                 </div>
             </div>

@@ -37,7 +37,7 @@ export default function Home() {
                       </div>
                     </div>
 
-                    <div className='case-section'>
+                    <div className='case-section m-section'>
 
                       <div className='case-heading'>
                         <h1> Use cases </h1>
@@ -68,7 +68,7 @@ export default function Home() {
 
                     </div>
 
-                    <div className='run-section'>
+                    <div className='run-section m-section'>
 
                       <h1> Anything that runs in Docker can run on ARM </h1>
 
@@ -90,7 +90,7 @@ export default function Home() {
 
                     </div>
 
-                    <div className='claim-section'>
+                    <div className='claim-section m-section m-section-3'>
 
                       <div className='img-box'>
                         <img src={`${imgRoute}/c1.png`} alt='img_1' />
@@ -102,7 +102,7 @@ export default function Home() {
 
                     </div>
 
-                    <div className='why-section'>
+                    <div className='why-section m-section-3'>
                       <div className='why-heading'>
                         <h1> Why Us </h1>
                       </div>
@@ -133,13 +133,13 @@ export default function Home() {
 
                     </div>
 
-                    <div className='compliance-section '>
+                    <div className='compliance-section m-section '>
                       <h1> Legal compliance </h1>
                       <p> ARM operates in full compliance with European laws, guaranteeing the legitimacy and reliability of our operations. </p>
                     </div>
 
                     {/* hassan work */}
-                    <section className='d-flex justify-content-center  flex-column container relative my-5'>
+                    <section className='d-flex justify-content-center  flex-column container relative '>
 
                       <div className='row'>
                         <div className="col-md-6 col-sm-6 col-6 col-lg-3 h-100">
@@ -190,8 +190,8 @@ export default function Home() {
 
 
 
-                    <div className='proof-section my-5 '>
-                      <div className='proof-heading my-5'>
+                    <div className='proof-section m-section-3 '>
+                      <div className='proof-heading m-section'>
                         <h2 className='my-2'> Proof of holding system </h2>
                         <p> Experience the rewarding benefits of our unique "Proof of Holding" solution,
                           designed to incentivize and empower users who hold ARM coins. </p>
@@ -273,7 +273,7 @@ export default function Home() {
                     </div>
 
 
-                    <div className='arthmetic-section my5'>
+                    <div className='arthmetic-section m-section'>
                       <h1> Arithmetic </h1>
                       <p>ARM coin, the heart of our ecosystem, is a transparently mined
                         cryptocurrency with unique tokenomics. In a world where decentralization and
@@ -282,7 +282,7 @@ export default function Home() {
                     </div>
 
 
-                    <div className='arthmetic-card my-5'>
+                    <div className='arthmetic-card m-section-2'>
                       <div className='arth-card'>
                         <img src={`${imgRoute}/ar1.png`} alt='icon' />
                         <h3>Honest Launch</h3>
@@ -327,7 +327,7 @@ export default function Home() {
                       </div>
                     </div>
 
-                    <div className='platform-card my-5'>
+                    <div className='platform-card m-section'>
                       <div className='plat-card'>
                         <img src={`${imgRoute}/p1.png`} alt='icon' />
                       </div>
@@ -348,7 +348,7 @@ export default function Home() {
                       </div>
                     </div>
 
-                    <div className='pricing-section my-5'>
+                    <div className='pricing-section m-section'>
 
                       <h2>Our Prices</h2>
                       <p>Free bandwidth</p>
@@ -399,7 +399,7 @@ export default function Home() {
 
                     </div>
 
-                    <div className='Roadmap-section my-5'>
+                    <div className='Roadmap-section m-section'>
                       <h2 className="text-center">Roadmap</h2>
 
                       <div className="container ">
