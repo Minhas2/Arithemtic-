@@ -1,0 +1,87 @@
+/* src/component/Layout/Header.css */
+.header {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  position: relative;
+}
+
+.logo img {
+  height: 40px;
+}
+
+.nav-links {
+  display: flex;
+  align-items: center;
+  transition: max-height 0.3s ease;
+}
+
+.nav-links ul {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+  display: flex;
+}
+
+.nav-links ul li {
+  margin-right: 20px;
+}
+
+.nav-links ul li a {
+  text-decoration: none;
+  color: black;
+  font-size: 16px;
+}
+
+.login {
+  display: flex;
+  align-items: center;
+}
+
+.login img {
+  height: 30px;
+  margin-left: 10px;
+}
+
+.hamburger-menu {
+  display: none;
+  flex-direction: column;
+  cursor: pointer;
+}
+
+.hamburger-menu .bar {
+  width: 25px;
+  height: 3px;
+  background-color: black;
+  margin: 4px 0;
+  transition: 0.3s;
+}
+
+.hamburger-menu .bar.open {
+  background-color: red;
+}
+
+.nav-links.open {
+  display: block;
+  position: absolute;
+  top: 60px;
+  right: 0;
+  background-color: white;
+  width: 100%;
+  box-shadow: 0 2px 5px rgba(0,0,0,0.2);
+}
+
+@media (max-width: 768px) {
+  .hamburger-menu {
+      display: flex;
+  }
+
+  .nav-links {
+      display: none;
+      flex-direction: column;
+  }
+
+  .nav-links.open {
+      display: flex;
+  }
+}
