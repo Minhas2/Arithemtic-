@@ -60,7 +60,8 @@ function Responsive() {
             <div className="relative">
               <img src="../assest/image/wave3.png" alt="" className="w-100" />
               <div className="abs-text1">
-                Arithemetic market was opened to the public was opened to the public for the masses $ARM is used for payments.
+                Arithemetic market was opened to the public was opened to the
+                public for the masses $ARM is used for payments.
               </div>
             </div>
           </div>
@@ -69,7 +70,7 @@ function Responsive() {
         <div className="col-4 center">
           <div className="blue-box d-flex justify-content-center flex-column align-items-center">
             <div className="mt-3 slide-title">Success</div>
-            <div className="mb-4 slide-date">Octobar 2024</div>
+            <div className="mb-4 slide-date">October 2024</div>
             <img
               src="../assest/image/slide 1.png"
               alt=""
@@ -79,8 +80,8 @@ function Responsive() {
             <div className="relative">
               <img src="../assest/image/wave1.png" alt="" className="w-100" />
               <div className="abs-text1">
-              Made big improvements based on user
-feedback, fixing hundreds of bugs.
+                Made big improvements based on user feedback, fixing hundreds of
+                bugs.
               </div>
             </div>
           </div>
@@ -99,10 +100,9 @@ feedback, fixing hundreds of bugs.
             <div className="relative">
               <img src="../assest/image/wave2.png" alt="" className="w-100" />
               <div className="abs-text1">
-              Introduced an innovative proof-of-holding
-system. Users with ARM coins get big
-bonuses for using the arm platform.
-Added Hive OS support.
+                Introduced an innovative proof-of-holding system. Users with ARM
+                coins get big bonuses for using the arm platform. Added Hive OS
+                support.
               </div>
             </div>
           </div>
@@ -175,7 +175,7 @@ Added Hive OS support.
         <div className="col-4 center">
           <div className="blue-box d-flex justify-content-center flex-column align-items-center">
             <div className="mt-3 slide-title">AIRDROP</div>
-            <div className="mb-4 slide-date">Octobar 2025</div>
+            <div className="mb-4 slide-date">October 2025</div>
             <img
               src="../assest/image/slide 7.png"
               alt=""
@@ -294,7 +294,6 @@ Added Hive OS support.
             </div>
           </div>
         </div>
-        
       </Slider>
     </div>
   );
