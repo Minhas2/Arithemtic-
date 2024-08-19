@@ -38,7 +38,7 @@ const Footer = () => {
                 </div>
               </div> */}
 
-              <p><a href='/'>blog.ARITHMETIC.ai</a></p>
+              {/* <p><a href='/'>blog.ARITHMETIC.ai</a></p> */}
 
 
 
@@ -65,7 +65,7 @@ const Footer = () => {
             <div className="col-6 col-md-4 my-2">
               <div className='logo'>
                 <img src={`${imgRoute}/flogo.png`} alt='logo' className='w-47' />
-                <p><a href='/'>blog.ARITHMETIC.ai</a></p>
+                {/* <p><a href='/'>blog.ARITHMETIC.ai</a></p> */}
                 <span>© 2022-2024</span>
                 <p>marketing@ARM</p>
                 <div className='twitter'>

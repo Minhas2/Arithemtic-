@@ -49,8 +49,8 @@ function Responsive() {
       <Slider {...settings} className="row">
         <div className="col-4 center">
           <div className="blue-box d-flex justify-content-center flex-column align-items-center">
-            <div className="mt-3 slide-title">Success</div>
-            <div className="mb-4 slide-date">January 2025</div>
+            <div className="mt-3 slide-title"> AIRDROP</div>
+            <div className="mb-4 slide-date">August 2024</div>
             <img
               src="../assest/image/slide 3.png"
               alt=""
@@ -71,7 +71,7 @@ function Responsive() {
         <div className="col-4 center">
           <div className="blue-box d-flex justify-content-center flex-column align-items-center">
             <div className="mt-3 slide-title">Success</div>
-            <div className="mb-4 slide-date">February 2024</div>
+            <div className="mb-4 slide-date">Octobar 2024</div>
             <img
               src="../assest/image/slide 1.png"
               alt=""
@@ -91,7 +91,7 @@ function Responsive() {
         <div className="col-4 center">
           <div className="blue-box d-flex justify-content-center flex-column align-items-center">
             <div className="mt-3 slide-title">Success</div>
-            <div className="mb-4 slide-date">March 2024</div>
+            <div className="mb-4 slide-date">January 2025</div>
             <img
               src="../assest/image/slide 2.png"
               alt=""
@@ -110,7 +110,7 @@ function Responsive() {
 
         <div className="col-4 center">
           <div className="blue-box d-flex justify-content-center flex-column align-items-center">
-            <div className="mt-3 slide-title">Success</div>
+            <div className="mt-3 slide-title">AIRDROP</div>
             <div className="mb-4 slide-date">April 2024</div>
             <img
               src="../assest/image/slide 4.png"
@@ -131,7 +131,7 @@ function Responsive() {
         <div className="col-4 center">
           <div className="blue-box d-flex justify-content-center flex-column align-items-center">
             <div className="mt-3 slide-title">Success</div>
-            <div className="mb-4 slide-date">May 2024</div>
+            <div className="mb-4 slide-date">June 2024</div>
             <img
               src="../assest/image/slide 5.png"
               alt=""
@@ -152,7 +152,7 @@ function Responsive() {
         <div className="col-4 center">
           <div className="blue-box d-flex justify-content-center flex-column align-items-center">
             <div className="mt-3 slide-title">Success</div>
-            <div className="mb-4 slide-date">June 2025</div>
+            <div className="mb-4 slide-date">August 2024</div>
             <img
               src="../assest/image/slide 6.png"
               alt=""
@@ -174,8 +174,8 @@ function Responsive() {
 
         <div className="col-4 center">
           <div className="blue-box d-flex justify-content-center flex-column align-items-center">
-            <div className="mt-3 slide-title">Success</div>
-            <div className="mb-4 slide-date">July 2024</div>
+            <div className="mt-3 slide-title">AIRDROP</div>
+            <div className="mb-4 slide-date">Octobar 2024</div>
             <img
               src="../assest/image/slide 7.png"
               alt=""
@@ -196,7 +196,7 @@ function Responsive() {
         <div className="col-4 center">
           <div className="blue-box d-flex justify-content-center flex-column align-items-center">
             <div className="mt-3 slide-title">Success</div>
-            <div className="mb-4 slide-date">June 2024</div>
+            <div className="mb-4 slide-date">December 2024</div>
             <img
               src="../assest/image/slide 8.png"
               alt=""
