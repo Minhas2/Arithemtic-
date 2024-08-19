@@ -104,12 +104,12 @@ const Footer = () => {
               </div>
             </div>
             <div className="col-4 col-md-4 col-lg-2 my-2">
-              <div className='offer'>
+              {/* <div className='offer'>
                 <h4>Sign in</h4>
                 <div className='offer-list'>
                   <div><a href='/' className='account'>Create an account</a></div>
                 </div>
-              </div>
+              </div> */}
             </div>
           </div>
         </div>
