@@ -85,3 +85,91 @@ body {
   background-position: 1581px 4044px;
   background-repeat: no-repeat;
 }
+
+/* styles.css */
+
+.custom-prev-arrow,
+.custom-next-arrow {
+  background-color: transparent;
+  color: #fff;
+  border: none;
+  /* padding: 20px;00 */
+  width: 70px;
+  height: 70px;
+  border-radius: 50%;
+  cursor: pointer;
+  z-index: 1;
+  transition: all;
+  /* width: fit-content; */
+  border: 1px solid white;
+}
+
+.custom-prev-arrow:hover {
+  background-color: white;
+  color: orange;
+}
+
+.custom-prev-arrow {
+  position: absolute;
+  top: 50%;
+  left: -5%;
+  transform: translateY(-50%);
+}
+
+
+.custom-next-arrow:hover {
+  background-color: white;
+  color: orange;
+}
+
+
+.custom-next-arrow {
+  position: absolute;
+  top: 50%;
+  right: -5%;
+  transform: translateY(-50%);
+}
+
+.arrow-font {
+  font-size: 40px;
+  height: 63px;
+}
+
+
+@media only screen and (max-width: 1440px) {
+  .custom-prev-arrow {
+    position: absolute;
+    top: 50%;
+    left: -7%;
+    transform: translateY(-50%);
+  }
+
+  .custom-next-arrow {
+    position: absolute;
+    top: 50%;
+    right: -7%;
+    transform: translateY(-50%);
+  }
+  
+
+
+}
+
+
+@media only screen and (max-width: 425px) {
+  .custom-prev-arrow {
+    position: absolute;
+    top: 112%;
+    left: 31%;
+    transform: translateY(-50%);
+}
+
+.custom-next-arrow {
+  position: absolute;
+  top: 112%;
+  right: 31%;
+  transform: translateY(-50%);
+}
+
+
+}

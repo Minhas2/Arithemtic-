@@ -2,6 +2,7 @@ import React from "react";
 import Slider from "react-slick";
 import "slick-carousel/slick/slick.css";
 import "slick-carousel/slick/slick-theme.css";
+import { CustomPrevArrow, CustomNextArrow } from './Arrow';
 
 function Responsive() {
   var settings = {
@@ -12,7 +13,9 @@ function Responsive() {
     slidesToScroll: 1, // Scroll 1 slide at a time
     initialSlide: 0,
     autoplay: true, // Enable autoplay
-    autoplaySpeed: 2000, // Set autoplay speed in milliseconds (e.g., 2000ms = 2 seconds)
+    autoplaySpeed: 2000, 
+    prevArrow: <CustomPrevArrow />,
+  nextArrow: <CustomNextArrow />,// Set autoplay speed in milliseconds (e.g., 2000ms = 2 seconds)
     responsive: [
       {
         breakpoint: 1024,

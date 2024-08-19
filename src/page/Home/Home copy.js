@@ -36,7 +36,7 @@ export default function Home() {
 
           </div>
 
-          <div className='case-section'>
+          <div className='case-section' >
 
             <div className='case-heading'>
               <h1> Use cases </h1>
@@ -330,7 +330,7 @@ export default function Home() {
             </div>
 
             <div class="price-notes">
-              <p>Participate in the Arithmetic Aidrop, you'll receive $ARM as a bonus.</p>
+              <div>Participate in the Arithmetic Aidrop, you'll receive $ARM as a bonus.</div>
             </div>
 
           </div>
@@ -371,7 +371,7 @@ export default function Home() {
 
           </div>
 
-          <div className='faq-section'>
+          <div className='faq-section' >
             <div className='faq-heading'>
               <h1> FAQ </h1>
             </div>

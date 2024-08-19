@@ -21,10 +21,10 @@ export default function Header() {
                         onClick={() => setShow(!show)}
                     />
                     <ul className={`${show ? 'show' : ''}`}>
-                        <li><a href='#'>Marketplace</a></li>
+                      
                         <li><a href='#'>Wallet</a></li>
-                        <li><a href='#'>Statistics</a></li>
-                        <li><a href='#'>Roadmap</a></li>
+                        <li><a href='#'>Contact</a></li>
+                        <li><a href='#roadmap'>Roadmap</a></li>
                     </ul>
                 </div>
 
