@@ -23,7 +23,7 @@ export default function Header() {
                     <ul className={`${show ? 'show' : ''}`}>
                       
                         <li><a href='#'>Wallet</a></li>
-                        <li><a href='#'>Contact</a></li>
+                        {/* <li><a href='#'>Contact</a></li> */}
                         <li><a href='#roadmap'>Roadmap</a></li>
                     </ul>
                 </div>

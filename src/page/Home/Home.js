@@ -52,7 +52,7 @@ export default function Home() {
                         <p>
                           Access GPU computing nodes from community members all around the world
                         </p>
-                        <p> Rent a server </p>
+                        {/* <p> Rent a server </p> */}
                       </div>
                       <div className='content-btn'>
                         {/* <div> <img src={`${imgRoute}/scroll1.png`} alt='img_1' /> </div>

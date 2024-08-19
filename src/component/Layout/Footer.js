@@ -31,12 +31,12 @@ const Footer = () => {
             <div className='text-center my-4'>
               <img src={`${imgRoute}/flogo.png`} alt='logo' className='w-50 mb-3' />
             
-              <div className='offer mb-5'>
+              {/* <div className='offer mb-5'>
                 <h4 className='text-center'>Sign in</h4>
                 <div className='offer-list'>
                   <div><a href='/' className='account'>Create an account</a></div>
                 </div>
-              </div>
+              </div> */}
 
               <p><a href='/'>blog.ARITHMETIC.ai</a></p>
 
