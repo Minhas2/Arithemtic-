@@ -1831,20 +1831,35 @@ background: white !important;
 
 
 @media only screen and (max-width: 1440px) {
-  .slider-custom-container {
-    max-width: 1160px;
-    margin: auto;
+  .abs-text1 {
+    font-size: 0.8rem;
+  }
+  
+
+}
+
+@media only screen and (max-width: 1113px) {
+  .abs-text1 {
+    font-size: 0.7rem;
+  }
+  .abs-text1 {
+
+    line-height: 21px;
+ 
+}
+  
+
 }
 
 
+@media only screen and (max-width: 1113px) {
+  .abs-text1 {
+    font-size: 0.6rem;
+  }
+  
+
 }
 
-
-
-/* .slide-image {
-  width: 240px;
-  height: 271px;
-} */
 
 
 
@@ -1965,6 +1980,23 @@ line-height: 111%;
 
 
 }
+
+
+@media only screen and (max-width: 360px) {
+  .custom-prev-arrow {
+    position: absolute;
+    top: 112%;
+    left: 26%;
+    transform: translateY(-50%);
+}
+
+.abs-text1 {
+  font-size: 0.6rem;
+}
+  
+
+}
+
 
 
 

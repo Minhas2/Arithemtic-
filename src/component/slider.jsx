@@ -101,9 +101,7 @@ function Responsive() {
               <img src="../assest/image/wave2.png" alt="" className="w-100" />
               <div className="abs-text1">
                 ARM will be listed on the MEXC exchange. Arithmetic will reach
-                20k open orders on the marketplace. A blog will be started on
-                Arithmetic, and users will have locked over 60 million ARM coins
-                in proof-of-holding, which will be about one-third of all coins.
+                20k open orders on the marketplace. A blog will launch on Arithmetic, and users will lock over 60 million ARM coins in proof-of-holding, about one-third of the total supply.
               </div>
             </div>
           </div>
@@ -163,7 +161,7 @@ function Responsive() {
 
             <div className="relative">
               <img src="../assest/image/wave3.png" alt="" className="w-100" />
-              <div className="abs-text1" style={{ lineHeight: "22px" }}>
+              <div className="abs-text1" >
                 Pre-selected OC profiles for mining-grade machines will be
                 rolled out. Customers will be able to choose specific OC
                 profiles provided by hosting providers, which will help
@@ -250,7 +248,8 @@ function Responsive() {
             <div className="relative">
               <img src="../assest/image/wave3.png" alt="" className="w-100" />
               <div className="abs-text1" style={{ lineHeight: "22px" }}>
-              Major updates will be made to MFP, and ARM will be set as the main payment method.
+                Major updates will be made to MFP, and ARM will be set as the
+                main payment method.
               </div>
             </div>
           </div>
@@ -269,8 +268,9 @@ function Responsive() {
             <div className="relative">
               <img src="../assest/image/wave3.png" alt="" className="w-100" />
               <div className="abs-text1" style={{ lineHeight: "22px" }}>
-          
-The Flux partnership will be established, Zellcore wallet integration will be added, the PAAL partnership will be formed, and an XT listing will be introduced.
+                The Flux partnership will be established, Zellcore wallet
+                integration will be added, the PAAL partnership will be formed,
+                and an XT listing will be introduced.
               </div>
             </div>
           </div>
@@ -289,7 +289,8 @@ The Flux partnership will be established, Zellcore wallet integration will be ad
             <div className="relative">
               <img src="../assest/image/wave3.png" alt="" className="w-100" />
               <div className="abs-text1" style={{ lineHeight: "22px" }}>
-              The Bitget listing will be introduced, and custom templates will be added to containers.
+                The Bitget listing will be introduced, and custom templates will
+                be added to containers.
               </div>
             </div>
           </div>
