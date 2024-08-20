@@ -90,7 +90,7 @@ function Responsive() {
         <div className="col-4 center">
           <div className="blue-box d-flex justify-content-center flex-column align-items-center">
             <div className="mt-3 slide-title">Success</div>
-            <div className="mb-4 slide-date">December 2024</div>
+            <div className="mb-4 slide-date">October 2024</div>
             <img
               src="../assest/image/slide 2.png"
               alt=""
@@ -111,7 +111,7 @@ function Responsive() {
         <div className="col-4 center">
           <div className="blue-box d-flex justify-content-center flex-column align-items-center">
             <div className="mt-3 slide-title">Success</div>
-            <div className="mb-4 slide-date">October 2024</div>
+            <div className="mb-4 slide-date">December 2024</div>
             <img
               src="../assest/image/slide 4.png"
               alt=""
