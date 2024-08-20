@@ -1,0 +1,90 @@
+
+  
+  .testimonial-card {
+    width: 100%;
+    text-align: left;
+
+  }
+  
+  .testimonial-card p {
+    margin-bottom: 22px;
+    font-size: 24px;
+    line-height: 31px;
+    color: #fff;
+    text-align: left;
+  }
+  
+
+  
+
+  
+
+  
+  .indicator-container {
+    position: absolute;
+    bottom: -30px;
+    left: 50%;
+    transform: translateX(-50%);
+    display: flex;
+  }
+  
+  .indicator {
+    width: 29px;
+    height: 5px;
+    background: gray;
+    border-radius: 3px;
+    margin: 0 5px;
+    cursor: pointer;
+}
+  
+  .indicator.active {
+    background: white;
+  }
+  
+
+
+  .testimonial-slider {
+    position: relative;
+    padding: 30px;
+    border: 1px solid #505050;
+    border-radius: 30px;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+}
+.card-header{
+    font-size: 24px;
+    line-height: 31px;
+    color: #fff;
+}
+
+
+.prices-slide__item-title {
+    width: 144px;
+    font-size: 18px;
+    line-height: 23px;
+    color: #f73636;
+    text-align: left;
+}
+
+
+.num{
+    font-size: 24px;
+    line-height: 31px;
+    color: #fff;
+}
+
+.prices-slide__price {
+
+    font-size: 30px;
+    line-height: 39px;
+    color: #fff;
+}
+
+.border-margin {
+    border: 1px solid;
+    margin: 12px 0px;
+    width: 10%;
+}
+
+

@@ -110,7 +110,7 @@ function Responsive() {
 
         <div className="col-4 center">
           <div className="blue-box d-flex justify-content-center flex-column align-items-center">
-            <div className="mt-3 slide-title">AIRDROP</div>
+            <div className="mt-3 slide-title">Success</div>
             <div className="mb-4 slide-date">March 2025</div>
             <img
               src="../assest/image/slide 4.png"
@@ -161,7 +161,7 @@ function Responsive() {
 
             <div className="relative">
               <img src="../assest/image/wave3.png" alt="" className="w-100" />
-              <div className="abs-text1">
+              <div className="abs-text1" style={{lineHeight:'22px'}}>
                 Rolled out pre-selected OC profiles for mining-grade machines.
                 Customers can choose specific OC profiles given by hosting
                 providers. This feature helps specialized miners. Added more
@@ -185,7 +185,7 @@ function Responsive() {
             <div className="relative">
               <img src="../assest/image/wave1.png" alt="" className="w-100" />
               <div className="abs-text1">
-                Introduced the Clore Mining feature. If a user's farm isn't
+                Introduced the ARAM Mining feature. If a user's farm isn't
                 rented out, it can automatically mine the top-paying coin and
                 switch if a better one comes up.
               </div>
@@ -245,10 +245,10 @@ function Responsive() {
 
             <div className="relative">
               <img src="../assest/image/wave3.png" alt="" className="w-100" />
-              <div className="abs-text1">
-                Clore got listed on the MEXC exchange. Clore.ai reached 20k open
-                orders on the marketplace. Started a blog on blog.clore.ai.
-                Users have now locked over 60m CLORE coins in proof-of-holding,
+              <div className="abs-text1" style={{lineHeight:'22px'}}>
+                ARAM got listed on the MEXC exchange. Arithmetic reached 20k open
+                orders on the marketplace. Started a blog on Arithmetic
+                Users have now locked over 60m ARAM coins in proof-of-holding,
                 which is about 1/3 of all coins.
               </div>
             </div>
@@ -268,7 +268,7 @@ function Responsive() {
             <div className="relative">
               <img src="../assest/image/wave3.png" alt="" className="w-100" />
               <div className="abs-text1">
-                Made major updates to MFP and set CLORE as the main payment
+                Made major updates to MFP and set ARAM as the main payment
                 method.
               </div>
             </div>

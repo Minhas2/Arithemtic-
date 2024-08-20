@@ -1845,3 +1845,128 @@ background: white !important;
   width: 240px;
   height: 271px;
 } */
+
+
+
+/* responvie 425 */
+@media only screen and (max-width: 425px) {
+  .arthmetic-card .arth-card {
+    width: auto;
+    height: auto;
+    padding: 28px 31px 20px 23px;
+    border: 1px solid #505050;
+    border-radius: 40px;
+}
+
+.dis-none-425{
+  display: none!important;
+}
+
+.pricing-section {
+  padding: 0;
+}
+
+.ar-image-425{
+ 
+
+    width: 60px;
+    height: 56px;
+
+}
+
+.arthmetic-card .arth-card p {
+  font-family: var(--Inter);
+  
+    font-size: 18px;
+    line-height: 20px;
+
+
+}
+
+.arthmetic-card .arth-card h3 {
+  font-size: 22px;
+  line-height: 28px;
+}
+
+.why-section .why-heading h1 {
+margin-top: 40px;
+font-size: 34px;
+line-height: 111%;
+}
+
+.why-section .box {
+  margin-top: 0px;
+  flex-direction: row;
+  align-items: start;
+}
+
+.why-section .box img {
+  width: 50px;
+  height: 70px;
+  margin-top: 10px;
+}
+
+
+.why-section .box h4 {
+  font-size: 20px;
+  line-height: 26px;
+}
+
+.why-section .box p {
+  font-size: 18px;
+  line-height: 22px;
+}
+
+.my-res-425{
+  margin-top: 50px;
+  margin-bottom: 40px;
+}
+
+.mb-425{
+  margin-bottom: 60px;
+}
+
+
+.pricing-section .price-notes {
+
+  margin-top: 60px;
+}
+
+.proof-section .proof-heading p {
+  font-size: 14px;
+  line-height: 20px;
+}
+
+.proof-section .proof-container .proof-box-heading p {
+  font-size: 13px;
+}
+
+.proof-section .proof-container .proof-box-heading h5 {
+  font-size: 13px;
+}
+
+.proof-section .proof-container .proof-pack {
+  display: flex;
+  align-items: flex-start;
+
+}
+
+.proof-box-img{
+  margin-top: 10px;
+}
+.proof_img {
+  width: 16px;
+  height: 16px;
+}
+
+
+
+}
+
+
+
+
+.font-blue{
+  color: #558EFF;
+
+}

@@ -5,6 +5,7 @@ import ASSET_PATHS from '../../constant'
 import "slick-carousel/slick/slick.css";
 import "slick-carousel/slick/slick-theme.css";
 import Responsive from '../../component/slider';
+import Price from '../../component/Layout/price';
 // import './Home.css';
 
 export default function Home() {
@@ -29,8 +30,10 @@ export default function Home() {
       question: "Are there any fees? ",
       answer: "We currently charge 2.5% fee from orders placed on spot market and 10% from on demand orders for bitcoin payments, for USD payments we charge 19.5% fee due to higher transaction fees + very low order creation fee (lower than $0.01)"
     },
-   
+
   ];
+
+
 
 
 
@@ -127,27 +130,39 @@ export default function Home() {
 
                     <div className='why-section m-section-3'>
                       <div className='why-heading'>
-                        <h1> Why Us </h1>
+                        <h1> Why Us ? </h1>
                       </div>
 
-                      <div className='why-box'>
+                      <div className='why-box my-res-425'>
 
-                        <div className='box'>
+                        <div className='box '>
                           <img src={`${imgRoute}/box1.png`} alt='img_1' />
-                          <h4>Low Price</h4>
-                          <p>Experience premium GPU services at a fraction of the cost, making high-performance computing accessible without compromising on quality.</p>
+                          <div>
+                            <h4 className='font-blue'>Low Price</h4>
+                            <p>Experience premium GPU services at a fraction of the cost, making high-performance computing accessible without compromising on quality.</p>
+                          </div>
                         </div>
 
                         <div className='box'>
                           <img src={`${imgRoute}/box2.png`} alt='img_1' />
-                          <h4>Low Price</h4>
-                          <p>Experience premium GPU services at a fraction of the cost, making high-performance computing accessible without compromising on quality.</p>
+                          <div>
+                            <h4 className='font-blue'>Bonus ARAM</h4>
+                            <p>Earn ARM rewards when you lease
+                              your video cards on our platform,
+                              monetizing your resources and
+                              building your crypto wealth.</p>
+                          </div>
                         </div>
 
-                        <div className='box'>
+                        <div className='box mb-425'>
                           <img src={`${imgRoute}/box3.png`} alt='img_1' />
-                          <h4>Low Price</h4>
-                          <p>Experience premium GPU services at a fraction of the cost, making high-performance computing accessible without compromising on quality.</p>
+                          <div>
+                            <h4 className='font-blue'>Powerful API</h4>
+                            <p>Our robust API enables seamless
+                              integration and customization, providing
+                              you flexible control over your GPU leasing
+                              and rental operations.</p>
+                          </div>
                         </div>
 
 
@@ -225,7 +240,7 @@ export default function Home() {
                         <div className='proof-box'>
                           <div className='proof-pack'>
                             <div className='proof-box-img'>
-                              <img src={`${imgRoute}/ul.png`} alt='img_1' />
+                              <img src={`${imgRoute}/ul.png`} alt='img_1'  className='proof_img'/>
                             </div>
                             <div className='proof-box-heading'>
                               <h5>Increased Rewards:</h5>
@@ -235,7 +250,7 @@ export default function Home() {
                           </div>
                           <div className='proof-pack'>
                             <div className='proof-box-img'>
-                              <img src={`${imgRoute}/ul.png`} alt='img_1' />
+                              <img src={`${imgRoute}/ul.png`} alt='img_1'  className='proof_img'/>
                             </div>
                             <div className='proof-box-heading'>
                               <h5>Increased Rewards:</h5>
@@ -245,7 +260,7 @@ export default function Home() {
                           </div>
                           <div className='proof-pack'>
                             <div className='proof-box-img'>
-                              <img src={`${imgRoute}/ul.png`} alt='img_1' />
+                              <img src={`${imgRoute}/ul.png`} alt='img_1'  className='proof_img'/>
                             </div>
                             <div className='proof-box-heading'>
                               <h5>Increased Rewards:</h5>
@@ -256,13 +271,13 @@ export default function Home() {
                         </div>
 
                         <div className='proof-img'>
-                          <img src={`${imgRoute}/proof.png`} alt='img_1' />
+                          <img src={`${imgRoute}/proof.png`} alt='img_1'  />
                         </div>
 
                         <div className='proof-box'>
                           <div className='proof-pack'>
                             <div className='proof-box-img'>
-                              <img src={`${imgRoute}/ul.png`} alt='img_1' />
+                              <img src={`${imgRoute}/ul.png`} alt='img_1'  className='proof_img'/>
                             </div>
                             <div className='proof-box-heading'>
                               <h5>Increased Rewards:</h5>
@@ -272,7 +287,7 @@ export default function Home() {
                           </div>
                           <div className='proof-pack'>
                             <div className='proof-box-img'>
-                              <img src={`${imgRoute}/ul.png`} alt='img_1' />
+                              <img src={`${imgRoute}/ul.png`} alt='img_1'  className='proof_img'/>
                             </div>
                             <div className='proof-box-heading'>
                               <h5>Increased Rewards:</h5>
@@ -282,7 +297,7 @@ export default function Home() {
                           </div>
                           <div className='proof-pack'>
                             <div className='proof-box-img'>
-                              <img src={`${imgRoute}/ul.png`} alt='img_1' />
+                              <img src={`${imgRoute}/ul.png`} alt='img_1'  className='proof_img'/>
                             </div>
                             <div className='proof-box-heading'>
                               <h5>Increased Rewards:</h5>
@@ -307,46 +322,46 @@ export default function Home() {
 
                     <div className='arthmetic-card m-section-2'>
                       <div className='arth-card'>
-                        <img src={`${imgRoute}/ar1.png`} alt='icon' />
-                        <h3>Honest Launch</h3>
+                        <img src={`${imgRoute}/ar1.png`} alt='icon' className='ar-image-425' />
+                        <h3 className='font-blue'>Honest Launch</h3>
                         <p>There was no premine or ICO. ARM coin
                           had the most transparent launch, making
                           mining available to anyone from day one.</p>
                       </div>
                       <div className='arth-card'>
-                        <img src={`${imgRoute}/ar1.png`} alt='icon' />
-                        <h3>Honest Launch</h3>
-                        <p>There was no premine or ICO. ARM coin
-                          had the most transparent launch, making
-                          mining available to anyone from day one.</p>
+                        <img src={`${imgRoute}/ar2.png`} alt='icon' className='ar-image-425' />
+                        <h3 className='font-blue'>Fair distribution</h3>
+                        <p>Our halving process gradually reduces
+                          rewards with each block, ensuring fairness,
+                          unlike Bitcoin's</p>
                       </div>
                       <div className='arth-card'>
-                        <img src={`${imgRoute}/ar1.png`} alt='icon' />
-                        <h3>Honest Launch</h3>
-                        <p>There was no premine or ICO. ARM coin
-                          had the most transparent launch, making
-                          mining available to anyone from day one.</p>
+                        <img src={`${imgRoute}/ar3.png`} alt='icon' className='ar-image-425' />
+                        <h3 className='font-blue'>Does not mine on asics</h3>
+                        <p>ARM coin is ASIC-resistant, preserving
+                          decentralization and the democratic spirit
+                          of cryptocurrency by mining without ASICs.</p>
                       </div>
                       <div className='arth-card'>
-                        <img src={`${imgRoute}/ar1.png`} alt='icon' />
-                        <h3>Honest Launch</h3>
-                        <p>There was no premine or ICO. ARM coin
-                          had the most transparent launch, making
-                          mining available to anyone from day one.</p>
+                        <img src={`${imgRoute}/ar4.png`} alt='icon' className='ar-image-425' />
+                        <h3 className='font-blue'>Limited supply</h3>
+                        <p>With a maximum cap of 1.3 billion coins set
+                          to be fully mined in 20 years, scarcity is
+                          ensured.</p>
                       </div>
                       <div className='arth-card'>
-                        <img src={`${imgRoute}/ar1.png`} alt='icon' />
-                        <h3>Honest Launch</h3>
-                        <p>There was no premine or ICO. ARM coin
-                          had the most transparent launch, making
-                          mining available to anyone from day one.</p>
+                        <img src={`${imgRoute}/ar5.png`} alt='icon' className='ar-image-425' />
+                        <h3 className='font-blue'>Supports Ecosystem</h3>
+                        <p>Holding ARM coins unlocks ecosystem
+                          benefits, such as discounts and bonuses
+                          through our Proof of Holding solution.</p>
                       </div>
                       <div className='arth-card'>
-                        <img src={`${imgRoute}/ar1.png`} alt='icon' />
-                        <h3>Honest Launch</h3>
-                        <p>There was no premine or ICO. ARM coin
-                          had the most transparent launch, making
-                          mining available to anyone from day one.</p>
+                        <img src={`${imgRoute}/ar6.png`} alt='icon' className='ar-image-425' />
+                        <h3 className='font-blue'>Equitable Distribution</h3>
+                        <p>The tokenomics ensures fair distribution,
+                          with 50% of each block going to miners,
+                          40% to hosters, and 10% to the team.</p>
                       </div>
                     </div>
 
@@ -376,40 +391,48 @@ export default function Home() {
                       <h2>Our Prices</h2>
                       <p>Free bandwidth</p>
 
-                      <div class="pricing-table">
-
-                        <div className="row w-100 mx-auto d-flex justify-content-center m-425">
-                          <div className="col-lg-2 col-md-2 col-sm-3 col-3">Number of cards</div>
+                      <Price />
+                      <div className="pricing-table dis-none-425">
+                        <div className="row w-100 mx-auto d-flex justify-content-center">
+                          <div className="col-lg-2 col-md-2 col-sm-3 col-3">
+                            Number of cards
+                          </div>
                           <div className="col-lg-2 col-md-3 col-sm-2 col-3">Processors</div>
-                          <div className="col-lg-3 col-md-3 col-sm-3 col-3 ">Ram</div>
+                          <div className="col-lg-3 col-md-3 col-sm-3 col-3">RAM</div>
                         </div>
 
-
-                        <div class="pricing-row">
-                          <div className='title' >RTX 3090</div>
-                          <div class="number">x <br /> 1</div>
-                          <div class="processor">6 core amd</div>
-                          <div class="ram">60 gb</div>
-                          <div class="total">0.255$ per hour</div>
+                        <div className="pricing-row">
+                          <div className="title">RTX 3090</div>
+                          <div className="number">
+                            x <br /> 1
+                          </div>
+                          <div className="processor">6 core AMD</div>
+                          <div className="ram">60 GB</div>
+                          <div className="total">0.255$ per hour</div>
                         </div>
 
-                        <div class="pricing-row">
-                          <div className='title' >RTX 3090</div>
-                          <div class="number"> x <br /> 1</div>
-                          <div class="processor">6 core amd </div>
-                          <div class="ram">60 gb</div>
-                          <div class="total">0.255$ per hour</div>
+                        <div className="pricing-row">
+                          <div className="title">RTX 3090</div>
+                          <div className="number">
+                            x <br /> 1
+                          </div>
+                          <div className="processor">6 core AMD</div>
+                          <div className="ram">60 GB</div>
+                          <div className="total">0.255$ per hour</div>
                         </div>
 
-                        <div class="pricing-row">
-                          <div className='title' >RTX 3090</div>
-                          <div class="number">x <br /> 1</div>
-                          <div class="processor">6 core amd</div>
-                          <div class="ram">60 gb</div>
-                          <div class="total">0.255$ per hour</div>
+                        <div className="pricing-row">
+                          <div className="title">RTX 3090</div>
+                          <div className="number">
+                            x <br /> 1
+                          </div>
+                          <div className="processor">6 core AMD</div>
+                          <div className="ram">60 GB</div>
+                          <div className="total">0.255$ per hour</div>
                         </div>
-
                       </div>
+
+
 
                       <div class="price-notes">
                         <div>Participate in the Arithmetic Aidrop, you'll receive $ARM as a bonus.</div>
@@ -464,7 +487,7 @@ export default function Home() {
                       <div >
 
                         {faqs.map((faq, index) => (
-                          <div   key={index}>
+                          <div key={index}>
                             <p className='FAQ_BOX d-flex justify-content-between' onClick={() => toggleExpand(index)} style={{ cursor: 'pointer' }}>
                               {faq.question}  <span>{expanded === index ? '-' : '+'}</span>
                             </p>
