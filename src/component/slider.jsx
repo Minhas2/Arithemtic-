@@ -100,9 +100,10 @@ function Responsive() {
             <div className="relative">
               <img src="../assest/image/wave2.png" alt="" className="w-100" />
               <div className="abs-text1">
-                Introduced an innovative proof-of-holding system. Users with ARM
-                coins get big bonuses for using the arm platform. Added Hive OS
-                support.
+                ARM got listed on the MEXC exchange. Arithmetic reached 20k open
+                orders on the marketplace. Started a blog on Arithmetic Users
+                have now locked over 60m ARM coins in proof-of-holding, which is
+                about 1/3 of all coins.
               </div>
             </div>
           </div>
@@ -152,7 +153,7 @@ function Responsive() {
         <div className="col-4 center">
           <div className="blue-box d-flex justify-content-center flex-column align-items-center">
             <div className="mt-3 slide-title">Success</div>
-            <div className="mb-4 slide-date">February  2025</div>
+            <div className="mb-4 slide-date">February 2025</div>
             <img
               src="../assest/image/slide 6.png"
               alt=""
@@ -161,7 +162,7 @@ function Responsive() {
 
             <div className="relative">
               <img src="../assest/image/wave3.png" alt="" className="w-100" />
-              <div className="abs-text1" style={{lineHeight:'22px'}}>
+              <div className="abs-text1" style={{ lineHeight: "22px" }}>
                 Rolled out pre-selected OC profiles for mining-grade machines.
                 Customers can choose specific OC profiles given by hosting
                 providers. This feature helps specialized miners. Added more
@@ -175,7 +176,7 @@ function Responsive() {
         <div className="col-4 center">
           <div className="blue-box d-flex justify-content-center flex-column align-items-center">
             <div className="mt-3 slide-title">AIRDROP</div>
-            <div className="mb-4 slide-date">March  2025</div>
+            <div className="mb-4 slide-date">March 2025</div>
             <img
               src="../assest/image/slide 7.png"
               alt=""
@@ -185,9 +186,9 @@ function Responsive() {
             <div className="relative">
               <img src="../assest/image/wave1.png" alt="" className="w-100" />
               <div className="abs-text1">
-                Introduced the ARM Mining feature. If a user's farm isn't
-                rented out, it can automatically mine the top-paying coin and
-                switch if a better one comes up.
+                Introduced the ARM Mining feature. If a user's farm isn't rented
+                out, it can automatically mine the top-paying coin and switch if
+                a better one comes up.
               </div>
             </div>
           </div>
@@ -216,7 +217,7 @@ function Responsive() {
         <div className="col-4 center">
           <div className="blue-box d-flex justify-content-center flex-column align-items-center">
             <div className="mt-3 slide-title">Success</div>
-            <div className="mb-4 slide-date">August  2025</div>
+            <div className="mb-4 slide-date">August 2025</div>
             <img
               src="../assest/image/slide 9.png"
               alt=""
@@ -236,6 +237,48 @@ function Responsive() {
         <div className="col-4 center">
           <div className="blue-box d-flex justify-content-center flex-column align-items-center">
             <div className="mt-3 slide-title">Success</div>
+            <div className="mb-4 slide-date">October 2025</div>
+            <img
+              src="../assest/image/slide 10.png"
+              alt=""
+              className="w-slide mb-4"
+            />
+
+            <div className="relative">
+              <img src="../assest/image/wave3.png" alt="" className="w-100" />
+              <div className="abs-text1" style={{ lineHeight: "22px" }}>
+                ARM got listed on the MEXC exchange. Arithmetic reached 20k open
+                orders on the marketplace. Started a blog on Arithmetic Users
+                have now locked over 60m ARM coins in proof-of-holding, which is
+                about 1/3 of all coins.
+              </div>
+            </div>
+          </div>
+        </div>
+
+        <div className="col-4 center">
+          <div className="blue-box d-flex justify-content-center flex-column align-items-center">
+            <div className="mt-3 slide-title">Success</div>
+            <div className="mb-4 slide-date">November 2025</div>
+            <img
+              src="../assest/image/slide 4.png"
+              alt=""
+              className="w-slide mb-4"
+            />
+
+            <div className="relative">
+              <img src="../assest/image/wave3.png" alt="" className="w-100" />
+              <div className="abs-text1" style={{ lineHeight: "22px" }}>
+                Flux partnership, added zellcore wallet integration, paal
+                partnership, xt listing
+              </div>
+            </div>
+          </div>
+        </div>
+
+        <div className="col-4 center">
+          <div className="blue-box d-flex justify-content-center flex-column align-items-center">
+            <div className="mt-3 slide-title">Success</div>
             <div className="mb-4 slide-date">December 2025</div>
             <img
               src="../assest/image/slide 10.png"
@@ -245,50 +288,8 @@ function Responsive() {
 
             <div className="relative">
               <img src="../assest/image/wave3.png" alt="" className="w-100" />
-              <div className="abs-text1" style={{lineHeight:'22px'}}>
-              Introduced an innovative proof-of-holding system. Users with ARM
-                coins get big bonuses for using the arm platform. Added Hive OS
-                support.
-              </div>
-            </div>
-          </div>
-        </div>
-
-        <div className="col-4 center">
-          <div className="blue-box d-flex justify-content-center flex-column align-items-center">
-            <div className="mt-3 slide-title">Success</div>
-            <div className="mb-4 slide-date">February  2026</div>
-            <img
-              src="../assest/image/slide 11.png"
-              alt=""
-              className="w-slide mb-4"
-            />
-
-            <div className="relative">
-              <img src="../assest/image/wave3.png" alt="" className="w-100" />
-              <div className="abs-text1">
-                Made major updates to MFP and set ARM as the main payment
-                method.
-              </div>
-            </div>
-          </div>
-        </div>
-
-        <div className="col-4 center">
-          <div className="blue-box d-flex justify-content-center flex-column align-items-center">
-            <div className="mt-3 slide-title">Success</div>
-            <div className="mb-4 slide-date">April 2026</div>
-            <img
-              src="../assest/image/slide 12.png"
-              alt=""
-              className="w-slide mb-4"
-            />
-
-            <div className="relative">
-              <img src="../assest/image/wave3.png" alt="" className="w-100" />
-              <div className="abs-text1">
-                Added private containers, improved the entire functionality of
-                interaction with containers, Сoinex listing, Rate listing
+              <div className="abs-text1" style={{ lineHeight: "22px" }}>
+                Bitget Listing , added custom templates to containers
               </div>
             </div>
           </div>
