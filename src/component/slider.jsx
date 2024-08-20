@@ -70,7 +70,7 @@ function Responsive() {
         <div className="col-4 center">
           <div className="blue-box d-flex justify-content-center flex-column align-items-center">
             <div className="mt-3 slide-title">Success</div>
-            <div className="mb-4 slide-date">October 2024</div>
+            <div className="mb-4 slide-date">September 2024</div>
             <img
               src="../assest/image/slide 1.png"
               alt=""
@@ -90,7 +90,7 @@ function Responsive() {
         <div className="col-4 center">
           <div className="blue-box d-flex justify-content-center flex-column align-items-center">
             <div className="mt-3 slide-title">Success</div>
-            <div className="mb-4 slide-date">January 2025</div>
+            <div className="mb-4 slide-date">December 2024</div>
             <img
               src="../assest/image/slide 2.png"
               alt=""
@@ -111,7 +111,7 @@ function Responsive() {
         <div className="col-4 center">
           <div className="blue-box d-flex justify-content-center flex-column align-items-center">
             <div className="mt-3 slide-title">Success</div>
-            <div className="mb-4 slide-date">March 2025</div>
+            <div className="mb-4 slide-date">October 2024</div>
             <img
               src="../assest/image/slide 4.png"
               alt=""
@@ -131,7 +131,7 @@ function Responsive() {
         <div className="col-4 center">
           <div className="blue-box d-flex justify-content-center flex-column align-items-center">
             <div className="mt-3 slide-title">Success</div>
-            <div className="mb-4 slide-date">June 2025</div>
+            <div className="mb-4 slide-date">January 2025</div>
             <img
               src="../assest/image/slide 5.png"
               alt=""
@@ -152,7 +152,7 @@ function Responsive() {
         <div className="col-4 center">
           <div className="blue-box d-flex justify-content-center flex-column align-items-center">
             <div className="mt-3 slide-title">Success</div>
-            <div className="mb-4 slide-date">August 2025</div>
+            <div className="mb-4 slide-date">February  2025</div>
             <img
               src="../assest/image/slide 6.png"
               alt=""
@@ -175,7 +175,7 @@ function Responsive() {
         <div className="col-4 center">
           <div className="blue-box d-flex justify-content-center flex-column align-items-center">
             <div className="mt-3 slide-title">AIRDROP</div>
-            <div className="mb-4 slide-date">October 2025</div>
+            <div className="mb-4 slide-date">March  2025</div>
             <img
               src="../assest/image/slide 7.png"
               alt=""
@@ -185,7 +185,7 @@ function Responsive() {
             <div className="relative">
               <img src="../assest/image/wave1.png" alt="" className="w-100" />
               <div className="abs-text1">
-                Introduced the ARAM Mining feature. If a user's farm isn't
+                Introduced the ARM Mining feature. If a user's farm isn't
                 rented out, it can automatically mine the top-paying coin and
                 switch if a better one comes up.
               </div>
@@ -196,7 +196,7 @@ function Responsive() {
         <div className="col-4 center">
           <div className="blue-box d-flex justify-content-center flex-column align-items-center">
             <div className="mt-3 slide-title">Success</div>
-            <div className="mb-4 slide-date">December 2025</div>
+            <div className="mb-4 slide-date">June 2025</div>
             <img
               src="../assest/image/slide 8.png"
               alt=""
@@ -216,7 +216,7 @@ function Responsive() {
         <div className="col-4 center">
           <div className="blue-box d-flex justify-content-center flex-column align-items-center">
             <div className="mt-3 slide-title">Success</div>
-            <div className="mb-4 slide-date">Feburay 2026</div>
+            <div className="mb-4 slide-date">August  2025</div>
             <img
               src="../assest/image/slide 9.png"
               alt=""
@@ -236,7 +236,7 @@ function Responsive() {
         <div className="col-4 center">
           <div className="blue-box d-flex justify-content-center flex-column align-items-center">
             <div className="mt-3 slide-title">Success</div>
-            <div className="mb-4 slide-date">April 2026</div>
+            <div className="mb-4 slide-date">December 2025</div>
             <img
               src="../assest/image/slide 10.png"
               alt=""
@@ -246,16 +246,16 @@ function Responsive() {
             <div className="relative">
               <img src="../assest/image/wave3.png" alt="" className="w-100" />
               <div className="abs-text1" style={{lineHeight:'22px'}}>
-                ARAM got listed on the MEXC exchange. Arithmetic reached 20k open
+                ARM got listed on the MEXC exchange. Arithmetic reached 20k open
                 orders on the marketplace. Started a blog on Arithmetic
-                Users have now locked over 60m ARAM coins in proof-of-holding,
+                Users have now locked over 60m ARM coins in proof-of-holding,
                 which is about 1/3 of all coins.
               </div>
             </div>
           </div>
         </div>
 
-        <div className="col-4 center">
+        {/* <div className="col-4 center">
           <div className="blue-box d-flex justify-content-center flex-column align-items-center">
             <div className="mt-3 slide-title">Success</div>
             <div className="mb-4 slide-date">July 2026</div>
@@ -268,14 +268,14 @@ function Responsive() {
             <div className="relative">
               <img src="../assest/image/wave3.png" alt="" className="w-100" />
               <div className="abs-text1">
-                Made major updates to MFP and set ARAM as the main payment
+                Made major updates to MFP and set ARM as the main payment
                 method.
               </div>
             </div>
           </div>
-        </div>
+        </div> */}
 
-        <div className="col-4 center">
+        {/* <div className="col-4 center">
           <div className="blue-box d-flex justify-content-center flex-column align-items-center">
             <div className="mt-3 slide-title">Success</div>
             <div className="mb-4 slide-date">September 2026</div>
@@ -293,7 +293,7 @@ function Responsive() {
               </div>
             </div>
           </div>
-        </div>
+        </div> */}
       </Slider>
     </div>
   );
