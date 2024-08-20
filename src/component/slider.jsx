@@ -247,7 +247,7 @@ function Responsive() {
 
             <div className="relative">
               <img src="../assest/image/wave3.png" alt="" className="w-100" />
-              <div className="abs-text1" style={{ lineHeight: "22px" }}>
+              <div className="abs-text1" >
                 Major updates will be made to MFP, and ARM will be set as the
                 main payment method.
               </div>
@@ -267,7 +267,7 @@ function Responsive() {
 
             <div className="relative">
               <img src="../assest/image/wave3.png" alt="" className="w-100" />
-              <div className="abs-text1" style={{ lineHeight: "22px" }}>
+              <div className="abs-text1" >
                 The Flux partnership will be established, Zellcore wallet
                 integration will be added, the PAAL partnership will be formed,
                 and an XT listing will be introduced.

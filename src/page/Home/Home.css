@@ -1981,6 +1981,18 @@ line-height: 111%;
 
 }
 
+@media only screen and (max-width: 385px) {
+
+
+.abs-text1 {
+  font-size: 0.6rem;
+  line-height: 16px;
+}
+
+}
+
+
+
 
 @media only screen and (max-width: 360px) {
   .custom-prev-arrow {
@@ -1992,8 +2004,8 @@ line-height: 111%;
 
 .abs-text1 {
   font-size: 0.6rem;
+  line-height: 16px;
 }
-  
 
 }
 
