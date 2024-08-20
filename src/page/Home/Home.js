@@ -240,7 +240,7 @@ export default function Home() {
                         <div className='proof-box'>
                           <div className='proof-pack'>
                             <div className='proof-box-img'>
-                              <img src={`${imgRoute}/ul.png`} alt='img_1'  className='proof_img'/>
+                              <img src={`${imgRoute}/ul.png`} alt='img_1' className='proof_img' />
                             </div>
                             <div className='proof-box-heading'>
                               <h5>Increased Rewards:</h5>
@@ -250,59 +250,62 @@ export default function Home() {
                           </div>
                           <div className='proof-pack'>
                             <div className='proof-box-img'>
-                              <img src={`${imgRoute}/ul.png`} alt='img_1'  className='proof_img'/>
+                              <img src={`${imgRoute}/ul.png`} alt='img_1' className='proof_img' />
                             </div>
                             <div className='proof-box-heading'>
-                              <h5>Increased Rewards:</h5>
-                              <p>The more Arithmetic coins you hold, the more bonus
-                                $ARM you receive for leasing your equipment.</p>
+                              <h5>Hassle-Free Usage:</h5>
+                              <p>No need to transfer money to our wallet. Simply
+                                sign the transaction from your desktop wallet
+                                to participate.</p>
                             </div>
                           </div>
                           <div className='proof-pack'>
                             <div className='proof-box-img'>
-                              <img src={`${imgRoute}/ul.png`} alt='img_1'  className='proof_img'/>
+                              <img src={`${imgRoute}/ul.png`} alt='img_1' className='proof_img' />
                             </div>
                             <div className='proof-box-heading'>
-                              <h5>Increased Rewards:</h5>
-                              <p>The more Arithmetic coins you hold, the more bonus
-                                $ARM you receive for leasing your equipment.</p>
+                              <h5>No Blocking:</h5>
+                              <p>Your money is not blocked; you're free to
+                                withdraw it for exchange or sale at your
+                                convenience.</p>
                             </div>
                           </div>
                         </div>
 
                         <div className='proof-img'>
-                          <img src={`${imgRoute}/proof.png`} alt='img_1'  />
+                          <img src={`${imgRoute}/proof.png`} alt='img_1' />
                         </div>
 
                         <div className='proof-box'>
                           <div className='proof-pack'>
                             <div className='proof-box-img'>
-                              <img src={`${imgRoute}/ul.png`} alt='img_1'  className='proof_img'/>
+                              <img src={`${imgRoute}/ul.png`} alt='img_1' className='proof_img' />
                             </div>
                             <div className='proof-box-heading'>
-                              <h5>Increased Rewards:</h5>
-                              <p>The more Arithmetic coins you hold, the more bonus
-                                $ARM you receive for leasing your equipment.</p>
+                              <h5>Service Discounts:</h5>
+                              <p>ARM coin holders enjoy up to a 50% discount
+                              on our commission for services.</p>
                             </div>
                           </div>
                           <div className='proof-pack'>
                             <div className='proof-box-img'>
-                              <img src={`${imgRoute}/ul.png`} alt='img_1'  className='proof_img'/>
+                              <img src={`${imgRoute}/ul.png`} alt='img_1' className='proof_img' />
                             </div>
                             <div className='proof-box-heading'>
-                              <h5>Increased Rewards:</h5>
-                              <p>The more Arithmetic coins you hold, the more bonus
-                                $ARM you receive for leasing your equipment.</p>
+                              <h5>Optional Use:</h5>
+                              <p>Participation in Proof of Holding is entirely
+optional, but it's a great way to maximize the
+benefits of owning ARM coins.</p>
                             </div>
                           </div>
                           <div className='proof-pack'>
                             <div className='proof-box-img'>
-                              <img src={`${imgRoute}/ul.png`} alt='img_1'  className='proof_img'/>
+                              <img src={`${imgRoute}/ul.png`} alt='img_1' className='proof_img' />
                             </div>
                             <div className='proof-box-heading'>
-                              <h5>Increased Rewards:</h5>
-                              <p>The more Arithmetic coins you hold, the more bonus
-                                $ARM you receive for leasing your equipment.</p>
+                              <h5>No Penalties:</h5>
+                              <p>No restrictions or penalties apply if you decide
+                              to withdraw money from Proof of Holding.</p>
                             </div>
                           </div>
                         </div>
