@@ -246,19 +246,18 @@ function Responsive() {
             <div className="relative">
               <img src="../assest/image/wave3.png" alt="" className="w-100" />
               <div className="abs-text1" style={{lineHeight:'22px'}}>
-                ARM got listed on the MEXC exchange. Arithmetic reached 20k open
-                orders on the marketplace. Started a blog on Arithmetic
-                Users have now locked over 60m ARM coins in proof-of-holding,
-                which is about 1/3 of all coins.
+              Introduced an innovative proof-of-holding system. Users with ARM
+                coins get big bonuses for using the arm platform. Added Hive OS
+                support.
               </div>
             </div>
           </div>
         </div>
 
-        {/* <div className="col-4 center">
+        <div className="col-4 center">
           <div className="blue-box d-flex justify-content-center flex-column align-items-center">
             <div className="mt-3 slide-title">Success</div>
-            <div className="mb-4 slide-date">July 2026</div>
+            <div className="mb-4 slide-date">February  2026</div>
             <img
               src="../assest/image/slide 11.png"
               alt=""
@@ -273,12 +272,12 @@ function Responsive() {
               </div>
             </div>
           </div>
-        </div> */}
+        </div>
 
-        {/* <div className="col-4 center">
+        <div className="col-4 center">
           <div className="blue-box d-flex justify-content-center flex-column align-items-center">
             <div className="mt-3 slide-title">Success</div>
-            <div className="mb-4 slide-date">September 2026</div>
+            <div className="mb-4 slide-date">April 2026</div>
             <img
               src="../assest/image/slide 12.png"
               alt=""
@@ -293,7 +292,7 @@ function Responsive() {
               </div>
             </div>
           </div>
-        </div> */}
+        </div>
       </Slider>
     </div>
   );
