@@ -60,8 +60,8 @@ function Responsive() {
             <div className="relative">
               <img src="../assest/image/wave3.png" alt="" className="w-100" />
               <div className="abs-text1">
-                Arithemetic market was opened to the public was opened to the
-                public for the masses $ARM is used for payments.
+                The Arithmetic Market will be opened to the public, and $ARM
+                will be used for payments.
               </div>
             </div>
           </div>
@@ -69,7 +69,7 @@ function Responsive() {
 
         <div className="col-4 center">
           <div className="blue-box d-flex justify-content-center flex-column align-items-center">
-            <div className="mt-3 slide-title">Success</div>
+            <div className="mt-3 slide-title">&nbsp;</div>
             <div className="mb-4 slide-date">September 2024</div>
             <img
               src="../assest/image/slide 1.png"
@@ -89,7 +89,7 @@ function Responsive() {
 
         <div className="col-4 center">
           <div className="blue-box d-flex justify-content-center flex-column align-items-center">
-            <div className="mt-3 slide-title">Success</div>
+            <div className="mt-3 slide-title">&nbsp;</div>
             <div className="mb-4 slide-date">October 2024</div>
             <img
               src="../assest/image/slide 2.png"
@@ -100,10 +100,10 @@ function Responsive() {
             <div className="relative">
               <img src="../assest/image/wave2.png" alt="" className="w-100" />
               <div className="abs-text1">
-                ARM got listed on the MEXC exchange. Arithmetic reached 20k open
-                orders on the marketplace. Started a blog on Arithmetic Users
-                have now locked over 60m ARM coins in proof-of-holding, which is
-                about 1/3 of all coins.
+                ARM will be listed on the MEXC exchange. Arithmetic will reach
+                20k open orders on the marketplace. A blog will be started on
+                Arithmetic, and users will have locked over 60 million ARM coins
+                in proof-of-holding, which will be about one-third of all coins.
               </div>
             </div>
           </div>
@@ -111,7 +111,7 @@ function Responsive() {
 
         <div className="col-4 center">
           <div className="blue-box d-flex justify-content-center flex-column align-items-center">
-            <div className="mt-3 slide-title">Success</div>
+            <div className="mt-3 slide-title">&nbsp;</div>
             <div className="mb-4 slide-date">December 2024</div>
             <img
               src="../assest/image/slide 4.png"
@@ -122,8 +122,9 @@ function Responsive() {
             <div className="relative">
               <img src="../assest/image/wave1.png" alt="" className="w-100" />
               <div className="abs-text1">
-                Users can now top-up their accounts in dollars and view logs in
-                their accounts.+ introduces maximum fair price feature.
+                Users will be able to top-up their accounts in dollars and view
+                logs in their accounts. Additionally, a maximum fair price
+                feature will be introduced.
               </div>
             </div>
           </div>
@@ -131,7 +132,7 @@ function Responsive() {
 
         <div className="col-4 center">
           <div className="blue-box d-flex justify-content-center flex-column align-items-center">
-            <div className="mt-3 slide-title">Success</div>
+            <div className="mt-3 slide-title">&nbsp;</div>
             <div className="mb-4 slide-date">January 2025</div>
             <img
               src="../assest/image/slide 5.png"
@@ -152,7 +153,7 @@ function Responsive() {
 
         <div className="col-4 center">
           <div className="blue-box d-flex justify-content-center flex-column align-items-center">
-            <div className="mt-3 slide-title">Success</div>
+            <div className="mt-3 slide-title">&nbsp;</div>
             <div className="mb-4 slide-date">February 2025</div>
             <img
               src="../assest/image/slide 6.png"
@@ -163,11 +164,11 @@ function Responsive() {
             <div className="relative">
               <img src="../assest/image/wave3.png" alt="" className="w-100" />
               <div className="abs-text1" style={{ lineHeight: "22px" }}>
-                Rolled out pre-selected OC profiles for mining-grade machines.
-                Customers can choose specific OC profiles given by hosting
-                providers. This feature helps specialized miners. Added more
-                forwarding nodes for faster service. Introduced a referral
-                system.
+                Pre-selected OC profiles for mining-grade machines will be
+                rolled out. Customers will be able to choose specific OC
+                profiles provided by hosting providers, which will help
+                specialized miners. More forwarding nodes will be added for
+                faster service, and a referral system will be introduced.
               </div>
             </div>
           </div>
@@ -175,7 +176,7 @@ function Responsive() {
 
         <div className="col-4 center">
           <div className="blue-box d-flex justify-content-center flex-column align-items-center">
-            <div className="mt-3 slide-title">AIRDROP</div>
+            <div className="mt-3 slide-title">&nbsp;</div>
             <div className="mb-4 slide-date">March 2025</div>
             <img
               src="../assest/image/slide 7.png"
@@ -186,9 +187,10 @@ function Responsive() {
             <div className="relative">
               <img src="../assest/image/wave1.png" alt="" className="w-100" />
               <div className="abs-text1">
-                Introduced the ARM Mining feature. If a user's farm isn't rented
-                out, it can automatically mine the top-paying coin and switch if
-                a better one comes up.
+                The ARM Mining feature will be introduced. If a user's farm
+                isn’t rented out, it will automatically mine the top-paying coin
+                and switch to a better one if a more profitable option becomes
+                available.
               </div>
             </div>
           </div>
@@ -196,7 +198,7 @@ function Responsive() {
 
         <div className="col-4 center">
           <div className="blue-box d-flex justify-content-center flex-column align-items-center">
-            <div className="mt-3 slide-title">Success</div>
+            <div className="mt-3 slide-title">&nbsp;</div>
             <div className="mb-4 slide-date">June 2025</div>
             <img
               src="../assest/image/slide 8.png"
@@ -207,8 +209,9 @@ function Responsive() {
             <div className="relative">
               <img src="../assest/image/wave2.png" alt="" className="w-100" />
               <div className="abs-text1">
-                Added more options like Tensorflow, Pytorch with Jupyter Lab,
-                and fitcrack. Introduced a review function.
+                More options will be added, including TensorFlow, PyTorch with
+                Jupyter Lab, and Fitcrack. A review function will also be
+                introduced.
               </div>
             </div>
           </div>
@@ -216,7 +219,7 @@ function Responsive() {
 
         <div className="col-4 center">
           <div className="blue-box d-flex justify-content-center flex-column align-items-center">
-            <div className="mt-3 slide-title">Success</div>
+            <div className="mt-3 slide-title">&nbsp;</div>
             <div className="mb-4 slide-date">August 2025</div>
             <img
               src="../assest/image/slide 9.png"
@@ -227,7 +230,7 @@ function Responsive() {
             <div className="relative">
               <img src="../assest/image/wave3.png" alt="" className="w-100" />
               <div className="abs-text1">
-                Used a neural network to set up MFP for new servers
+                A neural network will be used to set up MFP for new servers
                 automatically.
               </div>
             </div>
@@ -236,7 +239,7 @@ function Responsive() {
 
         <div className="col-4 center">
           <div className="blue-box d-flex justify-content-center flex-column align-items-center">
-            <div className="mt-3 slide-title">Success</div>
+            <div className="mt-3 slide-title">&nbsp;</div>
             <div className="mb-4 slide-date">October 2025</div>
             <img
               src="../assest/image/slide 10.png"
@@ -247,10 +250,7 @@ function Responsive() {
             <div className="relative">
               <img src="../assest/image/wave3.png" alt="" className="w-100" />
               <div className="abs-text1" style={{ lineHeight: "22px" }}>
-                ARM got listed on the MEXC exchange. Arithmetic reached 20k open
-                orders on the marketplace. Started a blog on Arithmetic Users
-                have now locked over 60m ARM coins in proof-of-holding, which is
-                about 1/3 of all coins.
+              Major updates will be made to MFP, and ARM will be set as the main payment method.
               </div>
             </div>
           </div>
@@ -258,7 +258,7 @@ function Responsive() {
 
         <div className="col-4 center">
           <div className="blue-box d-flex justify-content-center flex-column align-items-center">
-            <div className="mt-3 slide-title">Success</div>
+            <div className="mt-3 slide-title">&nbsp;</div>
             <div className="mb-4 slide-date">November 2025</div>
             <img
               src="../assest/image/slide 4.png"
@@ -269,8 +269,8 @@ function Responsive() {
             <div className="relative">
               <img src="../assest/image/wave3.png" alt="" className="w-100" />
               <div className="abs-text1" style={{ lineHeight: "22px" }}>
-                Flux partnership, added zellcore wallet integration, paal
-                partnership, xt listing
+          
+The Flux partnership will be established, Zellcore wallet integration will be added, the PAAL partnership will be formed, and an XT listing will be introduced.
               </div>
             </div>
           </div>
@@ -278,7 +278,7 @@ function Responsive() {
 
         <div className="col-4 center">
           <div className="blue-box d-flex justify-content-center flex-column align-items-center">
-            <div className="mt-3 slide-title">Success</div>
+            <div className="mt-3 slide-title">&nbsp;</div>
             <div className="mb-4 slide-date">December 2025</div>
             <img
               src="../assest/image/slide 10.png"
@@ -289,7 +289,7 @@ function Responsive() {
             <div className="relative">
               <img src="../assest/image/wave3.png" alt="" className="w-100" />
               <div className="abs-text1" style={{ lineHeight: "22px" }}>
-                Bitget Listing , added custom templates to containers
+              The Bitget listing will be introduced, and custom templates will be added to containers.
               </div>
             </div>
           </div>
