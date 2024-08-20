@@ -146,7 +146,7 @@ export default function Home() {
                         <div className='box'>
                           <img src={`${imgRoute}/box2.png`} alt='img_1' />
                           <div>
-                            <h4 className='font-blue'>Bonus ARAM</h4>
+                            <h4 className='font-blue'>Bonus ARM</h4>
                             <p>Earn ARM rewards when you lease
                               your video cards on our platform,
                               monetizing your resources and
